@@ -57,6 +57,7 @@ The ufw rules
 ## Steps:
 
 this is a brief step by step explanation of what i did:
+
 1)Refurbished and fixed the old Thinkpad x230 by replacing its drained CMOS and adding a battery
 
 2)Backed up any important data and installed Arch Linux on the system using a pen drive and archinstall script
