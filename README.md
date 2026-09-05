@@ -53,7 +53,9 @@ No virtual server
 <img width="611" height="257" alt="screenshot2" src="https://github.com/user-attachments/assets/bb0b6323-5a24-49cf-97b5-38ad0ee458be" />
 
 The ufw rules
-##Steps:
+
+## Steps:
+
 this is a brief step by step explanation of what i did:
 1)Refurbished and fixed the old Thinkpad x230 by replacing its drained CMOS and adding a battery
 
