@@ -19,6 +19,7 @@ that can monitor local devices.
 
 1)Due to the Thinkpad x230 being relatively lower in terms of processing power
 ,I had to pay attention to resources used.
+
 2)Wazuh does not natively support Arch, due to the lack of apt or yum. This causes the error::
 
 >ERROR: Couldn't find YUM or APT package manager. Try installing the one 
