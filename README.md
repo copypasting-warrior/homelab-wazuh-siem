@@ -20,10 +20,9 @@ that can monitor local devices.
 ,I had to pay attention to resources used.
 2.Wazuh does not natively support Arch due to a lack of apt or yum causing the error:
 
-\```
-ERROR: Couldn't find YUM or APT package manager. Try installing the one 
-corresponding to your operating system.
-\```
+>ERROR: Couldn't find YUM or APT package manager. Try installing the one 
+>corresponding to your operating system.
+
 
 3.Had to ensure the server was not accessible from outside the network as
 it reduces the chance of malicious people gaining access to it
@@ -79,7 +78,9 @@ ip addr Show
 
 5.Then I installed and Setup ufw and set the rules as:
 >Default deny incoming
+>
 >Default allow outgoing
+>
 >Allow from 192.168.1.0/24 to 443,1514,1515 and 5500
 
 6.Install and configure fail2ban to protect server from brute force attacks(redundant).
