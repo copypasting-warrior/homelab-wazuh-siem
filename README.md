@@ -100,7 +100,8 @@ set the docker instance up.
 
 <img width="1242" height="680" alt="Screenshot 2026-09-02 230028" src="https://github.com/user-attachments/assets/6904eb8f-3ec4-455d-ac45-c3be7190f056" />
 
-##Future considerations:
+## Future considerations:
+
 1.Switching setup to Debian to host Wazuh completely on the machine.
 
 2.Add users and groups with different privileges to ssh more securely.
