@@ -1,5 +1,6 @@
 # homelab-wazuh-siem
-
+**Stack:** Arch Linux · Docker · Wazuh 4.14 · UFW · fail2ban
+**Status:** Live and monitoring (1 agent)
 ## Overview
 
 An old thinkpad x230 which has been repurposed to host a Wazuh SIEM 
