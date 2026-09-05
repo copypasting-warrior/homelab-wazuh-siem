@@ -84,7 +84,7 @@ ip addr Show
 >
 >Default allow outgoing
 >
->Allow from 192.168.1.0/24 to 443,1514,1515 and 5500
+>Allow from 192.168.0.0/24 to 443,1514,1515 and 5500
 
 6.Install and configure fail2ban to protect server from brute force attacks(redundant).
 
